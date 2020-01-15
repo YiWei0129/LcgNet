@@ -1,2 +1,2 @@
 # LcgNet
-An implementation of ‘’Learned Conjugate Gradient Descent Network for Massive MIMO Detection‘’
+An implementation of the paper ‘Learned Conjugate Gradient Descent Network for Massive MIMO Detection’
